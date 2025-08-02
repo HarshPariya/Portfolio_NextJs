@@ -34,9 +34,9 @@ const projectsData = [
   },
   {
     title: "Portfolio Website",
-    description: "Animated personal portfolio using React, Tailwind, and Framer Motion.",
+    description: "Animated personal portfolio using Next.Js, Tailwind, and Framer Motion.",
     tech: ["React", "Tailwind CSS", "Framer Motion"],
-    live: "#",
+    live: "https://portfolio-nextjs-avft.onrender.com/",
     github: "https://github.com/HarshPariya/Portfolio",
     category: "Frontend",
   },
